@@ -38,7 +38,7 @@ Usage
     Import the script or copy and paste the code into a notebook cell.
     Run the script.
 
-![Alt text for image]([Screenshot from 2023-08-08 18-17-02.png](https://github.com/mohammadnia11/LicSBAS_remove_Bad_images/blob/559b4331094f9190ddfa688df589c6920ce2517a/Screenshot%20from%202023-08-08%2018-17-02.png))
+![Alt text for image](Screenshot from 2023-08-08 18-17-02.png)
 
 The script will display the interferogram images and allow you to navigate through them, retain them, or move them to a specified directory as per your selection.
 
