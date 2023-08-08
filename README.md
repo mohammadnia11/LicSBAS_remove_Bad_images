@@ -38,6 +38,8 @@ Usage
     Import the script or copy and paste the code into a notebook cell.
     Run the script.
 
+![Alt text for image](images/Screenshot from 2023-08-08 18-17-02.png)
+
 The script will display the interferogram images and allow you to navigate through them, retain them, or move them to a specified directory as per your selection.
 
 
