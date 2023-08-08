@@ -3,8 +3,6 @@
 
 You can employ this code to sequentially open images and subsequently exclude each of them for the remaining steps of LicSBAS processing. Execute this code within a Jupyter Notebook environment.
 
-# Interferogram Image Processing
-
 ## Overview
 This script is designed to process and manage interferograms. It displays images, allows the user to retain or move the interferograms to a specified directory, and offers navigation options through the images.
 
