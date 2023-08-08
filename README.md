@@ -10,10 +10,6 @@ COMET products are invaluable tools for InSAR processing. While LiCSBAS is effec
 This code provides a solution to that problem. It allows you to open each PNG-formatted unwrapped interferogram individually, view it, and remove it from processing with just one click if needed. The bad interferograms will be saved in a separate folder for your reference.
 
 Please make sure to run this code in the main folder where you have both batch_LiCSBAS.sh and the GEOCml1 folder. Then, proceed with step three and follow the instructions 
-## Written by
-Mohammadhoosein Mohamamdnia  
-Email: mhmnia@connect.hku.hk  
-Date: 7-20-2023
 
 ## Prerequisites
 The script requires the following libraries:
@@ -48,3 +44,8 @@ The script will display the interferogram images and allow you to navigate throu
 
 
 Feel free to modify or expand this template to suit your project's needs.
+
+## Written by
+Mohammadhoosein Mohamamdnia  
+Email: mhmnia@connect.hku.hk  
+Date: 7-20-2023
